@@ -9,3 +9,13 @@ p{
     padding: 3px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.menu-container {
+    display: inline-block;
+  }
+
+  .menu-container1 {
+    position:inline-block;
+    padding: 3px;
+  }
+  
